@@ -18,6 +18,10 @@ PyGWalker offers an exceptionally interactive experience and visually appealing 
 
 
 
+### References:
+https://medium.com/@HeCanThink/pygwalker-a-graphic-walkthrough-of-tableau-style-user-interface-in-jupyter-python-15674be950bb
+
+https://towardsdatascience.com/use-pygwalker-to-enhance-your-jupyter-notebook-eda-experience-d7a5ee358be9
 
 
 
